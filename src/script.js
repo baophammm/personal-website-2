@@ -1,5 +1,5 @@
 // Reload page when click on Name
-const nameLogo = document.querySelector("#name");
+const nameLogo = document.querySelector("#letter-b");
 nameLogo.addEventListener("click",function(){location.reload()});
 
 // FUNCTION SET UP PROJECT SELECTION NAME
